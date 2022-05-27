@@ -4,3 +4,8 @@ body{
 h1{
     color: yellow;
 }
+h3{
+    background-color: black;
+    color: white;
+    padding: 6px;
+}
